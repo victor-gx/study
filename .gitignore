@@ -1,0 +1,7 @@
+*.dev
+*.layout
+*.txt
+*.o
+*.win
+*.exe
+!student.txt
